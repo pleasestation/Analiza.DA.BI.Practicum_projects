@@ -1,5 +1,5 @@
-print('1. Show all pokemon that have more than 70 hp
-a. Show only the pokemons’ names')
+1. Show all pokemon that have more than 70 hp
+a. Show only the pokemons’ names'
 
 SELECT *
 FROM [dbo].[pokemon]
