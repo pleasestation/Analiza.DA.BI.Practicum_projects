@@ -1,1 +1,12 @@
+1. Show all pokemon that have more than 70 hp
+a. Show only the pokemons’ names
 
+SELECT *
+FROM [dbo].[pokemon]
+WHERE HP > 70;
+
+
+
+2. Show all pokemon that have a primary color of red
+a. In addition, show all pokemon that can evolve
+b. Show only their name, pokedex number and their abilities
