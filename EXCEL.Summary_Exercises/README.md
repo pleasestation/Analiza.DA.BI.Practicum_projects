@@ -16,4 +16,4 @@ To get started with the exercises, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
    ```sh
-   git clone https://github.com/username/Summary_exercises_Excel_10.04.24.git
+   git clone https://github.com/pleasestation/Summary_exercises_Excel_10.04.24.git
