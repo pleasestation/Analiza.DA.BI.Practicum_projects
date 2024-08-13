@@ -22,4 +22,4 @@ To get started with the exercises, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
    ```sh
-   git clone https://github.com/username/SQL-Summary-Exercises-SQL-Server-Practicum.git
+   git clone https://github.com/pleasestation/Analiza.Practicum_projects/new/main/SQL.Summary_Exercises.git
