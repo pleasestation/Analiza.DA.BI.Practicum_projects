@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Fast and Furious** is a project focused on analyzing data for a bicycle manufacturer and retailer. The goal is to leverage stored data to provide strategic insights that will inform decision-making across the company's nationwide stores. By utilizing tools such as SQL, Excel, Tableau, and statistical analysis, the project aims to deliver comprehensive findings and actionable recommendations.
+**Fast and Furious** is a project focused on analyzing data for a bicycle manufacturer and retailer. The goal is to leverage stored data to provide strategic insights that will inform decision-making across the company's nationwide stores. By utilizing tools such as `SQL`, `Excel`, `Tableau`, and statistical analysis, the project aims to deliver comprehensive findings and actionable recommendations.
 
 ## About the Data
 
