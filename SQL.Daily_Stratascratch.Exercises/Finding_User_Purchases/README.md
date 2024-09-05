@@ -132,7 +132,6 @@ Write a query that identifies returning active users. A returning active user is
 | 98  | 110     | bread   | 2020-03-27 | 225     |
 | 99  | 130     | milk    | 2020-03-16 | 494     |
 | 100 | 117     | bread   | 2020-03-10 | 209     |
-| 2020-03-10 | 209     |
 - **id**: `int`
 - **user_id**: `int`
 - **item**: `varchar`
